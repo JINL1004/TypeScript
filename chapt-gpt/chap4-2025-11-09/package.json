@@ -1,0 +1,12 @@
+{
+  "name": "chap4-2025-11-09",
+  "version": "1.0.0",
+  "description": "**🎯 Lesson 4 目標**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
